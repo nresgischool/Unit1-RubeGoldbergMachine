@@ -21055,7 +21055,7 @@ MonoBehaviour:
   camera6: {fileID: 1047402806}
   camera7: {fileID: 1130865118}
   camera8: {fileID: 385015852}
-  camera9: {fileID: 0}
+  camera9: {fileID: 538233086}
 --- !u!1001 &851477295
 PrefabInstance:
   m_ObjectHideFlags: 0
